@@ -13,6 +13,7 @@ public class FirstClass {
 		System.out.println("Here is a merge conflict I create from local master");
 
 		System.out.println("Here is the conflict we have from master branch");
+		System.out.println("Here is another conflict from remove master branch");
 		
 	}
 
